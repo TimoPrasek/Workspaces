@@ -1,2 +1,2 @@
 # Workspaces
-Samples for the Workspaces module
+Sample configurations for MatchPoint Workspaces.
