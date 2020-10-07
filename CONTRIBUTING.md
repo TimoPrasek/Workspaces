@@ -6,4 +6,4 @@
 - no domain names or URLs
 
 # Structure
-Configurations are stored as snippets in the folder of the corresponding component.
+Each workspace type configuration is stored in a separage folder with an appropriate folder name. The folder can contain additional configuration files like PnP provisioning templates.
